@@ -14,10 +14,6 @@
 ---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsYoungeun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-#### I'm currently learning ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
